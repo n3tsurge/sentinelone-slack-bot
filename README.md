@@ -2,8 +2,8 @@
 
 ## Alpha Milestones
 
-- [] Basic command interaction (API v2.0 - Central Park+)
-- [] Slack user to S1 API key mapping (backend postgresdb)
+- [ ] Basic command interaction (API v2.0 - Central Park+)
+- [ ] Slack user to S1 API key mapping (backend postgresdb)
 
 ## Envisioned Commands
 
